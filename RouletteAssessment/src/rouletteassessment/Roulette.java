@@ -40,7 +40,7 @@ public class Roulette {
     }
     
     /**
-     *
+     * THIS METHOD WILL GENERATE A BET AND DETERMINE WHETHER PLAYERS HAVE WON
      * @param playerNumBet
      * @param playerOddEven
      * @param betAmount
@@ -125,7 +125,7 @@ public class Roulette {
     }
 
     /**
-     * This method will generate an output
+     * This method will generate winnings for each player
      *
      * @param player
      * @param winningNumber
@@ -148,7 +148,7 @@ public class Roulette {
     }
 
     /**
-     * shows total Bettings
+     * This Method will display total earnings for players
      *
      * @param player
      * @param totWin
